@@ -1,7 +1,17 @@
-👋 Hi, I’m @Klorenn  
-👀 I’m interested in technology, digital creation, and blockchain.  
-🌱 I’m currently learning more about coding and web development, as it’s something I’m passionate about.  
-💞️ I’m looking to collaborate on exciting digital projects, particularly in the areas of blockchain, NFTs, and web3.  
-📫 How to reach me: You can contact me via Twitter (@Klorenn) or LinkedIn (Pau Koh).  
-😄 Pronouns: He/Him  
-⚡ Fun fact: I’m always exploring new technologies and creative ways to bring ideas to life.
+# 👋 Hey, I’m **@Klorenn**
+
+💡 **Passionate about technology, digital creation & blockchain.**  
+🚀 Currently diving deeper into **coding** and **web development**, turning ideas into projects.  
+🤝 Open to collaborate on exciting initiatives in **blockchain, NFTs, and Web3**.  
+
+---
+
+### 🌍 Let’s Connect
+- 🐦 Twitter: [@Kl0ren](https://twitter.com/Kl0ren)  
+- 💼 LinkedIn: [Pau Koh](https://www.linkedin.com/in/pau-koh)  
+
+---
+
+### 😄 About Me
+- Pronouns: **He/Him**  
+- ⚡ Fun fact: I’m always exploring new technologies and creative ways to bring ideas to life.
