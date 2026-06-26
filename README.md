@@ -3,19 +3,19 @@
 ###
 
 <p align="left">
-  I’m also known as <strong>Klorenn</strong>. I like building digital experiences, creating content, learning frontend development and exploring the intersection between design, communities and Web3.
+  I'm also known as <strong>Klorenn</strong>. I like creating digital experiences, learning frontend development, building communities and exploring the intersection between design, storytelling and Web3.
 </p>
 
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Klorenn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&title_color=DC143C&icon_color=DC143C&text_color=F8F8F2&border_color=8B0000&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Klorenn&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&theme=dracula&title_color=DC143C&icon_color=DC143C&text_color=F8F8F2&border_color=8B0000&locale=en&hide_border=false&hide=commits" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Klorenn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&title_color=DC143C&text_color=F8F8F2&border_color=8B0000&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3F1ajZzcTlsNWlqcTBoenljbzB2dTJlanF1cTl3ZXhrcXNhZWI1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3nhfE47B5flIwdIGqk/giphy.gif" />
+<img data-importer="image" align="right" height="150" src="https://media.giphy.com/media/3nhfE47B5flIwdIGqk/giphy.gif" />
 
 ###
 
@@ -30,8 +30,6 @@
 </p>
 
 ###
-
-<h3 align="left">🛠 Techs I'm using and learning</h3>
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
@@ -49,6 +47,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
   <img width="12" />
@@ -69,8 +69,6 @@
 
 ###
 
-<h3 align="left">🌐 Socials</h3>
-
 <div data-importer="socials" align="left">
   <a href="https://x.com/kl0ren" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X%20/%20kl0ren&logo=x&label=&color=8B0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="x logo" />
@@ -87,12 +85,16 @@
 
 <br clear="both">
 
-<div align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=900&color=DC143C&center=true&vCenter=true&width=650&lines=Digital+creator+from+Chile;Frontend+learner+%E2%80%A2+Web3+community;Crimson+pixels+%E2%80%A2+lofi+nights+%E2%80%A2+retro+games" alt="Typing SVG" />
-</div>
+</p>
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Klorenn/Klorenn/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Klorenn/Klorenn/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Klorenn/Klorenn/output/snake.svg" />
+  <img data-importer="snake" src="https://raw.githubusercontent.com/Klorenn/Klorenn/output/snake.svg" alt="Snake animation" />
+</picture>
 
 ###
