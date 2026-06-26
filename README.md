@@ -1,6 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0008,50:8B0000,100:DC143C&height=180&section=header&text=Klorenn&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Digital%20Creator%20%7C%20Web3%20Community%20%7C%20Frontend%20Learner&descAlignY=58&descSize=15" />
+  <img src="https://i.pinimg.com/originals/9d/bd/9e/9dbd9e807e4d498b454d120c82086f43.gif" alt="Klorenn lofi retro banner" width="100%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=95&section=header&text=KLORENN&fontSize=55&fontColor=DC143C&animation=fadeIn&fontAlignY=55&desc=Digital%20Creator%20%C2%B7%20Web3%20Community%20%C2%B7%20Frontend%20Learner&descAlignY=88&descSize=15&descColor=FFB3C1" />
 
 </div>
 
@@ -11,8 +19,8 @@
 ###
 
 <p align="left">
-  I’m passionate about technology, digital creation, blockchain and building meaningful digital experiences.  
-  I’m currently improving my skills in web development, design systems and Web3 communication, turning ideas into clean interfaces, content and community-driven projects.
+  I’m passionate about technology, digital creation, blockchain, communities and building meaningful digital experiences.
+  I like mixing design, storytelling and code to create things that feel clean, useful and alive.
 </p>
 
 ###
@@ -24,7 +32,7 @@
 
 ###
 
-<img align="right" height="155" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZhdXBiMHFuN2N2MThkMml3bjlxNTRzdWs1enFpYzFiZzFnMHgzaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" alt="coding gif" />
+<img align="right" height="165" src="https://i.pinimg.com/originals/9d/bd/9e/9dbd9e807e4d498b454d120c82086f43.gif" alt="lofi retro gif" />
 
 ###
 
@@ -32,10 +40,18 @@
 
 <p align="left">
   ✦ Community Manager focused on Web3, blockchain and digital ecosystems.<br>
-  ✦ I like creating content, landing pages, visual identities and clean user experiences.<br>
-  ✦ Currently learning and building with JavaScript, TypeScript, React and modern frontend tools.<br>
-  ✦ Interested in open communities, creative technology, crypto education and products that help real people.<br>
-  ✦ Always exploring new ways to mix design, storytelling and code.
+  ✦ I create content, visual ideas, landing pages and digital experiences.<br>
+  ✦ Currently learning frontend development with JavaScript, TypeScript, React and modern web tools.<br>
+  ✦ Interested in retro games, lofi aesthetics, creative technology and open communities.<br>
+  ✦ I enjoy building projects that connect people, ideas and culture.
+</p>
+
+###
+
+<h3 align="left">🕹 Current mood</h3>
+
+<p align="left">
+  Crimson pixels, old games, lofi nights, fantasy worlds and clean interfaces.
 </p>
 
 ###
@@ -69,10 +85,11 @@
 <h3 align="left">⚡ Currently focused on</h3>
 
 <ul align="left">
-  <li>Building cleaner and more professional frontend projects.</li>
-  <li>Improving my UI design and landing page workflow.</li>
-  <li>Learning more about blockchain products, communities and developer ecosystems.</li>
+  <li>Improving my frontend development workflow.</li>
+  <li>Building cleaner and more professional landing pages.</li>
+  <li>Learning better UI, design systems and visual storytelling.</li>
   <li>Creating content that makes Web3 easier to understand in Latin America.</li>
+  <li>Exploring projects that mix community, design and technology.</li>
 </ul>
 
 ###
@@ -80,7 +97,7 @@
 <h3 align="left">🌐 Connect with me</h3>
 
 <div align="left">
-  <a href="https://twitter.com/Kl0ren" target="_blank">
+  <a href="https://x.com/Kl0ren" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X%20/%20Twitter&logo=x&label=&color=8B0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="x logo" />
   </a>
   <a href="https://www.linkedin.com/in/pau-koh/" target="_blank">
@@ -88,9 +105,6 @@
   </a>
   <a href="https://github.com/Klorenn" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=1A0008&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
-  </a>
-  <a href="mailto:TU_EMAIL_AQUI">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=B00020&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
 </div>
 
@@ -100,7 +114,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Klorenn/Klorenn/output/snake.svg" alt="Snake animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=900&color=DC143C&center=true&vCenter=true&width=650&lines=Digital+creator+from+Chile;Building+with+code%2C+community+and+design;Crimson+pixels+%E2%80%A2+lofi+nights+%E2%80%A2+retro+worlds" alt="Typing SVG" />
 
 </div>
 
@@ -108,6 +122,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC143C,50:8B0000,100:1a0008&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0008,50:8B0000,100:DC143C&height=120&section=footer" />
 
 </div>
