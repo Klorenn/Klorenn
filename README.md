@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Pau Koh and I'm a digital creator, community builder and frontend learner from Chile.</h2>
+<h2 align="left">Hi 👋! My name is Pau Koh and I'm a digital creator, community builder and frontend learner from Chile.</h2>
 
 ###
 
@@ -8,14 +8,31 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Klorenn&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&theme=dracula&title_color=DC143C&icon_color=DC143C&text_color=F8F8F2&border_color=8B0000&locale=en&hide_border=false&hide=commits" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Klorenn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&title_color=DC143C&text_color=F8F8F2&border_color=8B0000&hide_border=false" height="150" alt="languages graph" />
+<div align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Klorenn&theme=dracula"
+    height="150"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Klorenn&theme=dracula"
+    height="150"
+    alt="Top languages"
+  />
 </div>
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://media.giphy.com/media/3nhfE47B5flIwdIGqk/giphy.gif" />
+<div align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Klorenn&theme=dracula"
+    alt="GitHub profile summary"
+  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://media.giphy.com/media/3nhfE47B5flIwdIGqk/giphy.gif" />
 
 ###
 
@@ -31,7 +48,7 @@
 
 ###
 
-<div data-importer="techs" align="left">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
@@ -69,7 +86,7 @@
 
 ###
 
-<div data-importer="socials" align="left">
+<div align="left">
   <a href="https://x.com/kl0ren" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X%20/%20kl0ren&logo=x&label=&color=8B0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="x logo" />
   </a>
@@ -94,7 +111,5 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Klorenn/Klorenn/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Klorenn/Klorenn/output/snake.svg" />
-  <img data-importer="snake" src="https://raw.githubusercontent.com/Klorenn/Klorenn/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Klorenn/Klorenn/output/snake.svg" alt="Snake animation" />
 </picture>
-
-###
